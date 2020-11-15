@@ -3,7 +3,7 @@ Pod::Spec.new do |s|
     s.version = '5.0.0'
     s.summary = 'Open Asset Import Library'
     s.homepage = 'http://www.assimp.org'
-    s.source = { :git => 'https://github.com/eugenebokhan/Assimp-Cocoapod', :tag => s.version.to_s }
+    s.source = { :git => 'https://github.com/eugenebokhan/assimp-cocoapod', :tag => s.version.to_s }
     s.author = { 'Eugene Bokhan' => 'eugenebokhan@protonmail.com' }
     s.social_media_url = 'http://twitter.com/eugenebokhan'
     s.license = { :file => 'LICENSE' }
