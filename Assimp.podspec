@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
     s.name  = 'Assimp'
-    s.version = '5.0.0'
+    s.version = '5.0.1'
     s.summary = 'Open Asset Import Library'
     s.homepage = 'http://www.assimp.org'
     s.source = { :git => 'https://github.com/eugenebokhan/assimp-cocoapod', :tag => s.version.to_s }
